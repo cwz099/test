@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>惠州工程职业学院学生信息登记表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            margin: 20px auto;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="url"],
+        input[type="number"],
+        input[type="date"],
+        input[type="color"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            border: none;
+            border-radius: 4px;
+            background-color: #5cb85c;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button[type="reset"] {
+            background-color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+    <h1>惠州工程职业学院学生信息登记表</h1>
+    <form action="/submit-form" method="post">
+        <div>
+            <label for="userLoginName">用户登录名（不能修改，只能查看）:</label>
+            <input type="text" id="userLoginName" name="userLoginName" value="myemail@163.com" readonly>
+        </div>
+        <div>
+            <label for="realName">真实姓名（必须填写，只能输入汉字）:</label>
+            <input type="text" id="realName" name="realName" required pattern="[\\u4e00-\\u9fa5]+" title="只能输入汉字">
+        </div>
+        <div>
+            <label for="realAge">真实年龄（必须填写）:</label>
+            <input type="number" id="realAge" name="realAge" required value="24">
+        </div>
+        <div>
+            <label for="birthDate">出生日期（年/月/日，必须填写）:</label>
+            <input type="date" id="birthDate" name="birthDate" required>
+        </div>
+        <div>
+            <label for="email">电子邮箱（必须填写）:</label>
+            <input type="email" id="email" name="email" required value="123456@126.com">
+        </div>
+        <div>
+            <label for="idNumber">身份证号（必须填写，能够以数字、字母x结尾的短身份证号）:</label>
+            <input type="text" id="idNumber" name="idNumber" required pattern="\d{17}[xX]|\d{18}">
+        </div>
+        <div>
+            <label for="phoneNumber">手机号码（必须填写）:</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" required pattern="[0-9]{11}">
+        </div>
+        <div>
+            <label for="personalHomepage">个人主页（请选择网址）:</label>
+            <input type="url" id="personalHomepage" name="personalHomepage" required value="http://www.itcast.cn">
+        </div>
+        <div>
+            <label for="luckyColor">幸运颜色（请选择你喜欢的颜色）:</label>
+            <input type="color" id="luckyColor" name="luckyColor">
+        </div>
+        <div>
+            <button type="submit">提交</button>
+            <button type="reset">重置</button>
+        </div>
+    </form>
+</body>
+</html>if (age > 18) {
+    console.log("You are an adult.");
+} else {
+    console.log("You are a minor.");
+}

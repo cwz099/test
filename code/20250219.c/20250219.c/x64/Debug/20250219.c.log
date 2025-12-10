@@ -1,0 +1,3 @@
+﻿  ttt.c
+C:\code\20250219.c\20250219.c\ttt.c(5,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\code\20250219.c\20250219.c\ttt.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

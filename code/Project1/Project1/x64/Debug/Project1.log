@@ -1,0 +1,302 @@
+﻿  01.c
+C:\code\Project1\Project1\01.c(1,1): error C2054: 在“_CRT_SECURE_NO_WARNINGS”之后应输入“(”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(61,35): error C2085: “uintptr_t”: 不在形参表中
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(72,23): error C2085: “va_list”: 不在形参表中
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(155,36): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(155,18): error C2082: 形参“__va_start”的重定义
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(155,36): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h(155,43): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(387,61): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(387,61): error C2061: 语法错误: 标识符“_StackCookie”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(387,61): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(387,73): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(388,77): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(388,77): error C2061: 语法错误: 标识符“_StackCookie”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(388,77): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(388,89): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(392,18): error C2061: 语法错误: 标识符“__security_cookie”
+  (编译源文件“01.c”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime.h(392,18): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(367,20): error C2081: “uintptr_t”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2146: 语法错误: 缺少“)”(在标识符“_Reserved”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,16): error C2081: “uintptr_t”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2061: 语法错误: 标识符“_Reserved”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,35): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(277,66): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(277,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(277,66): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(277,66): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(278,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(286,66): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(286,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(286,66): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(286,66): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(287,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(295,66): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(295,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(295,66): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(295,66): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(296,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(303,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(303,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(303,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(303,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(304,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(308,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(310,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(332,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(332,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(332,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(332,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(333,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(337,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(339,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(365,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(365,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(365,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(365,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(366,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(370,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(372,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(393,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(393,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(393,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(393,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(394,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(398,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(400,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(420,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(420,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(420,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(420,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(421,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(425,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(427,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(451,70): error C2146: 语法错误: 缺少“)”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(451,49): error C2081: “va_list”: 形参表中的名称非法
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(451,70): error C2061: 语法错误: 标识符“_ArgList”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(451,70): error C2059: 语法错误:“;”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(452,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(456,5): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(458,5): error C2059: 语法错误:“}”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(485,9): error C2065: “va_list”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(485,17): error C2146: 语法错误: 缺少“;”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(485,17): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(486,9): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(487,19): warning C4013: “_vfwprintf_l”未定义；假设外部返回 int
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(487,59): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(488,9): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(488,9): error C2065: “va_list”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(488,9): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(488,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(503,9): error C2065: “va_list”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(503,17): error C2146: 语法错误: 缺少“;”(在标识符“_ArgList”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(503,17): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(504,9): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(505,56): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(506,9): error C2065: “_ArgList”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(506,9): error C2065: “va_list”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(506,9): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(506,9): error C2059: 语法错误:“)”
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(522,9): error C2065: “va_list”: 未声明的标识符
+  (编译源文件“01.c”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h(522,9): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“01.c”)
+  
