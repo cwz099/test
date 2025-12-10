@@ -1,0 +1,6 @@
+﻿  File.c
+  func.c
+  正在生成代码...
+C:\test\code\扫雷2025_12_10.c\扫雷2025_12_10.c\func.c(83,18): warning C4013: “minecount”未定义；假设外部返回 int
+  head.h
+  扫雷2025_12_10.c.vcxproj -> C:\test\code\扫雷2025_12_10.c\Debug\扫雷2025_12_10.c.exe
