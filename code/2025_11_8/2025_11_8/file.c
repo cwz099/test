@@ -313,34 +313,56 @@ int main() {
 //    printf("%d", c);
 //    return 0;
 //}
-#include <stdbool.h>
+//#include <stdbool.h>
+//#include <stdio.h>
+//int func(int a)
+//{
+//    while (a>0)
+//    {
+//        int b = a % 10;
+//        a /= 10;
+//        if (b == 4)
+//        {
+//            return 1;
+//        }
+//    }
+//    return 0;
+//}
+//int main() {
+//    int a, b;
+//    scanf("%d", &a);
+//    for (b = 1; b <= a; b++)
+//    {
+//        if (b % 4 == 0 | func(b) == 1)
+//        {
+//            continue;
+//        }
+//        else
+//        {
+//            printf("%d ", b);
+//        }
+//    }
+//    return 0;
+//}
 #include <stdio.h>
-int func(int a)
+
+int main()
 {
-    while (a>0)
+    int n = 0;
+    scanf("%d", &n);
+    if (n == 1)
     {
-        int b = a % 10;
-        a /= 10;
-        if (b == 4)
-        {
-            return 1;
-        }
+        printf("0");
     }
-    return 0;
-}
-int main() {
-    int a, b;
-    scanf("%d", &a);
-    for (b = 1; b <= a; b++)
+    else if (n == 2 || n == 3)
     {
-        if (b % 4 == 0 | func(b) == 1)
-        {
-            continue;
-        }
-        else
-        {
-            printf("%d ", b);
-        }
+        printf("1");
     }
+    else if (n >= 4)
+    {
+        int arr[100] = { 0 };
+        arr[n] = arr[n - 3] + 2 * arr[n - 2] + arr[n - 1];
+    }
+    printf("%d", n);
     return 0;
 }
