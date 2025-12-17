@@ -17,3 +17,5 @@ void displaybroad(char broad[ROWS][COLS], int row, int col);
 void setmine(char broad[ROWS][COLS], int row, int col);
 void findmine(char mine[ROWS][COLS],char show[ROWS][COLS], int row, int col);
 
+extern int win;  // 声明全局变量
+void expand(char mine[ROWS][COLS], char show[ROWS][COLS], int row, int col, int x, int y);
